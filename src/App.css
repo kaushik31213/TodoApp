@@ -1,0 +1,11 @@
+.container {
+  max-width: 900px;
+  width: 95%;
+  margin: auto;
+}
+
+.main__title {
+  text-align: center;
+  margin: 2rem 0;
+  
+}
